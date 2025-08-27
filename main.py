@@ -6,7 +6,7 @@ from telegram.ext import (
     ContextTypes
 )
 
-TOKEN = "YOUR_BOT_TOKEN"  # <-- apna token yaha daalna
+TOKEN = "8387419905:AAH4uNKYlR5zB3CzFgGc0-08NKofbFrjwLE"  # <-- apna token yaha daalna
 
 # Store games {chat_id: {...}}
 games = {}

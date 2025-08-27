@@ -8,7 +8,7 @@ from telegram.ext import (
 )
 import random
 
-TOKEN = "YOUR_BOT_TOKEN"  # <-- apna token yaha daalo
+TOKEN = "8329813270:AAGuT6N_K3I1NkxiClAO8qcD4XeWIi0D4es"  # <-- apna token yaha daalo
 
 # Start command
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
